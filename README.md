@@ -1,4 +1,4 @@
-<img src="QR code.png" width="200" height="200">
+<img src="QRcode.png" width="200" height="200">
 
 | 項次 | 項目 | 內容 |
 |----:|------|------|

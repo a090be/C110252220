@@ -22,16 +22,3 @@ alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
 </summary>
 </details>
 
-<details>
- 2
-<summary>
-  (2)
-</summary>
-</details>
-
-<details>
-  3
-<summary>
-  (3)
-</summary>
-</details>

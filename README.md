@@ -15,23 +15,23 @@ alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
 
 <br><br><br>
 
-<detail>
+<details>
   1
 <summary>
   (1)
 </summary>
-</detail>
+</details>
 
-<detail>
+<details>
  2
 <summary>
   (2)
 </summary>
-</detail>
+</details>
 
-<detail>
+<details>
   3
 <summary>
   (3)
 </summary>
-</detail>
+</details>

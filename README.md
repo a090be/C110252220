@@ -16,23 +16,16 @@ alt="倫敦智慧城市" width="400" height="250" border="10" /></a>
 <br><br><br>
 
 <details>
-  1
+音樂、閱讀
 <summary>
-  (1)
+ 興趣
 </summary>
 </details>
 
 <details>
-  1
+足球比賽、搖滾樂、旅遊
 <summary>
-  (1)
-</summary>
-</details>
-
-<details>
-  1
-<summary>
-  (1)
+  喜歡的事物
 </summary>
 </details>
 
